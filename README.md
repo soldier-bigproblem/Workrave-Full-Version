@@ -239,4 +239,4 @@ This repository serves as the official landing page for Workrave. The software i
 **Get the most recent version of Workrave today!**
 
 ---
-**Last updated:** 2026-09-29 23:37:09 UTC
+**Last updated:** 2026-09-30 05:21:10 UTC
